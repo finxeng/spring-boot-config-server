@@ -1,9 +1,6 @@
 server:
-  port: 8090
-
+  port: 8888
 spring:
-  application:
-    name: spring-boot-config-server
   cloud:
     config:
       server:
